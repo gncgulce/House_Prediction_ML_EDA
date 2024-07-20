@@ -6,7 +6,8 @@ A machine learning model is expected to be developed to predict customers who wi
     
 </div>
 
-<img src="attachment:84d66a1c-bb28-454b-a754-59b7de383338.jpg" alt="House">
+![House](https://github.com/user-attachments/assets/55e462df-0aaa-4f66-b3fd-e8d9e69d1fdf)
+
 
 
 
